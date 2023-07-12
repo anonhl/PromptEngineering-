@@ -1,6 +1,6 @@
 # PromptEngineering助手
 
-完全通过与ChatGpt聊天编写
+完全通过与ChatGpt plus!的聊天编写
 
 语言：c#，平台：vs 2022
 
